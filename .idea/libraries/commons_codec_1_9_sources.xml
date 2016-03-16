@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.9-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaWsDiscovery-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
